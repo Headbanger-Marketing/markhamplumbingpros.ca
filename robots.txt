@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://markhamplumbingpros.ca/sitemap-index.xml
