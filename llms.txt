@@ -1,2 +1,25 @@
 # Markham Plumbing Pros
-HVAC services in Ontario.
+
+> Markham Plumbing Pros is a local HVAC company serving Markham, York, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 472-3610  |  Email: contact@markhamplumbingpros.ca  |  Website: https://markhamplumbingpros.ca
+
+## Key pages
+
+- [Home](https://markhamplumbingpros.ca/): Markham Plumbing Pros homepage with service overview and FAQ
+- [About](https://markhamplumbingpros.ca/about/): About the company and service area
+- [Contact](https://markhamplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://markhamplumbingpros.ca/services/water-heaters/): Water Heaters in Markham, Ontario
+- [Drain Cleaning](https://markhamplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Markham, Ontario
+- [Repiping](https://markhamplumbingpros.ca/services/repiping/): Repiping in Markham, Ontario
+- [Fixtures & Toilets](https://markhamplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Markham, Ontario
+- [Leak Detection & Repair](https://markhamplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Markham, Ontario
+- [Sump Pumps & Backwater](https://markhamplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Markham, Ontario
+- [Water Softeners & Filtration](https://markhamplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Markham, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Markham are answered on the homepage.
